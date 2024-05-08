@@ -1,10 +1,13 @@
-# Simple Banking System
+# UTS Lab PBO 4 Sistem perbankan sederhana 
 
 Sebuah sistem perbankan sederhana berbasis baris perintah di mana pengguna dapat mendaftar akun baru, mengirim uang, menyimpan uang, memeriksa informasi akun mereka, dan keluar dari sistem.
 
 ## Deskripsi
 
 Proyek ini merupakan sistem perbankan dasar yang diimplementasikan dalam antarmuka baris perintah (CLI). Pengguna dapat melakukan berbagai operasi perbankan seperti mendaftar akun baru, mengirim uang ke akun lain, menyimpan uang, memeriksa informasi akun, dan keluar dari sistem.
+
+## Penjelasan File 
+di file UTSPBO22.java terdapat atribut main dan menginisiasikan class BankAccounta,untuk file BankAccount.java menu utama,method ataupun logikanya dll,untuk file account.java dimana variabel ataupun atribut dari nasabah disimpan.
 
 ## Cara Menggunakan
 
